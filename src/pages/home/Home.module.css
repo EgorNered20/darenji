@@ -1,0 +1,11 @@
+.img-background {
+    filter: blur(5px);
+    width: 1920px;
+    height: 1080px;
+}
+
+.nickname {
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+}
