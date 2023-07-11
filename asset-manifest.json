@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/darenji/static/css/main.fbeec7aa.css",
+    "main.js": "/darenji/static/js/main.73df003f.js",
+    "static/media/background1.jpg": "/darenji/static/media/background1.f2529078ab8d24cc9928.jpg",
+    "index.html": "/darenji/index.html",
+    "main.fbeec7aa.css.map": "/darenji/static/css/main.fbeec7aa.css.map",
+    "main.73df003f.js.map": "/darenji/static/js/main.73df003f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbeec7aa.css",
+    "static/js/main.73df003f.js"
+  ]
+}
